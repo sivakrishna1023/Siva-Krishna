@@ -139,13 +139,13 @@ function App() {
     },
     {
       institution: "Aditya Junior College, Andhra Pradesh",
-      degree: "Board Of Intermediate Education (12th Standard)",
+      degree: "Board of Intermediate Education (12th Standard)",
       duration: "June 2019 -- June 2021",
       gpa: "9.6",
     },
     {
-      institution: "Bhashyam School Of Education, Andhra Pradesh",
-      degree: "Board Of Secondary Education (10th Standard)",
+      institution: "Bhashyam School of Education, Andhra Pradesh",
+      degree: "Board of Secondary Education (10th Standard)",
       duration: "June 2018 -- June 2029",
       gpa: "10",
     },
@@ -158,15 +158,15 @@ function App() {
     },
     {
       title: "CodeRush 2024 Coding Challenge",
-      description: "Achieved a rank of 39 in the Coderush 2024 campus offline coding challenge",
+      description: "Achieved a Rank of 39 in the CodeRush 2024 campus offline coding challenge",
     },
     {
       title: "Graph Camp Contest",
-      description: "Achieved 1st rank in the Graph Camp Contest conducted by Algo University",
+      description: "Achieved 1st Rank in the Graph Camp Contest conducted by Algo University",
     },
     {
       title: "Google HashCode",
-      description: "Achieved a Global rank of 5719 and a National rank of 616 in Google HashCode",
+      description: "Achieved a Global Rank of 5719 and a National Rank of 616 in Google HashCode",
     },
   ];
 
@@ -208,7 +208,7 @@ function App() {
       link: "https://github.com/sivakrishna1023/WorkNest",
       description: [
         "Crafted a dynamic platform for professional networking and job searching.",
-        "mplemented robust user authentication and real-time collaboration features with React, Express, and MongoDB.",
+        "Implemented robust user authentication and real-time collaboration features such as flitering, Profile Match, etc.., with React, Express, and MongoDB.",
       ],
     },
     
@@ -231,8 +231,7 @@ function App() {
       date: "Dec. 2022",
       link: "https://drive.google.com/file/d/1V-za2FlmSjqVRGS2GRnCIfge-ujYsEia/view",
       description: [
-        "Designed a scalable chat application for efficient communication between users and groups.",
-        "Utilized React for frontend, Express and MongoDB for backend, and integrated Socket.IO for real-time communication, achieving a message delivery latency of less than 800ms.",
+        "Worked with Tech Team to create an intuitive and engaging user experience, incorporating user feedback for continuous improvement. Being part of the team I was incharge of creating the front-end using ReactJS.",
       ],
     },
   ];
