@@ -309,12 +309,6 @@ function App() {
               Education
             </a>
             <a
-              href="#achievements"
-              className="cursor-pointer text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300"
-            >
-              Achievements
-            </a>
-            <a
               href="#projects"
               className="cursor-pointer text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300"
             >
@@ -325,6 +319,12 @@ function App() {
               className="cursor-pointer text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300"
             >
               Skills
+            </a>
+            <a
+              href="#achievements"
+              className="cursor-pointer text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300"
+            >
+              Achievements
             </a>
             <a
               href="#leadership"
