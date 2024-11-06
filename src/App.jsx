@@ -216,7 +216,7 @@ function App() {
     {
       company: "Xchange",
       role: "Freelance Project - Backend Developer",
-      date: "Nov. 2023",
+      date: "Nov 2023 -- Jan 2024",
       link: "https://xchangehyd.com",
       description: [
         "Developed critical API endpoints for user interaction, ensuring seamless frontend-backend integration.",
@@ -226,7 +226,7 @@ function App() {
     {
       company: "Raise Digital Pvt. Ltd",
       role: "Web Development Intern",
-      date: "Dec. 2022",
+      date: "Dec 2022 -- Jan 2023",
       link: "https://drive.google.com/file/d/1V-za2FlmSjqVRGS2GRnCIfge-ujYsEia/view",
       description: [
         "Worked with Tech Team to create an intuitive and engaging user experience, incorporating user feedback for continuous improvement. Being part of the team I was incharge of creating the front-end using ReactJS.",
