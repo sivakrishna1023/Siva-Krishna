@@ -49,7 +49,7 @@ import {
 } from "react-icons/si";
 import MaterialUiLogo from './assets/mui.svg';
 import { motion, AnimatePresence } from "framer-motion";
-import profileImage from "./assets/profile_image.jpg";
+import profileImage from "./assets/Profile_image.jpg";
 
 function App() {
   const [isDark, setIsDark] = useState(false);
@@ -359,7 +359,7 @@ function App() {
         >
           <img
             src={profileImage}
-            alt="Varun Deep Saini"
+            alt="Siva Krishna"
             loading="lazy"
             className="w-32 h-32 rounded-full mx-auto mb-4 border-4 border-gray-500 dark:border-gray-400"
           />
