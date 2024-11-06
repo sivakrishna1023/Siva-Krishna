@@ -215,7 +215,7 @@ function App() {
   const experience = [
     {
       company: "Xchange",
-      role: "Freelance Project - Backend Developer Intern",
+      role: "Freelance Project - Backend Developer",
       date: "Nov. 2023",
       link: "https://xchangehyd.com",
       description: [
