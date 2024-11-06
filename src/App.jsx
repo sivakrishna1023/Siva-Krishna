@@ -105,9 +105,7 @@ function App() {
   const showTemporaryPopup = (message) => {
     const popup = document.createElement("div");
     popup.innerText = message;
-    popup.className =
-      "fixed top-16 right-10 bg-gray-300 dark:bg-gray-700 text-black dark:text-white py-2 px-4 rounded shadow-md transition-opacity duration-300 opacity-0 z-50";
-
+    popup.className =  "fixed top-16 left-1/2 transform -translate-x-1/2 bg-gray-300 dark:bg-gray-700 text-black dark:text-white py-3 px-6 rounded shadow-md transition-opacity duration-300 opacity-0 z-50";
     document.body.appendChild(popup);
     setTimeout(() => {
       popup.classList.add("opacity-100");
