@@ -217,7 +217,7 @@ function App() {
       company: "Xchange",
       role: "Freelance Project - Backend Developer",
       date: "Nov 2023 -- Jan 2024",
-      link: "https://xchangehyd.com",
+      link: "https://xchange-mu.vercel.app",
       description: [
         "Developed critical API endpoints for user interaction, ensuring seamless frontend-backend integration.",
         "Thoroughly tested APIs with Postman for optimal functionality and reliability.",
