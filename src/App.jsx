@@ -395,7 +395,7 @@ function App() {
 
               <div className="cursor-pointer" onClick={handleCopyEmail}  >
               <a
-                href="https://leetcode.com/u/Sivakrishna1096"
+                href="https://leetcode.com/u/Sivakrishna96"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300"
@@ -406,7 +406,7 @@ function App() {
 
               <div className="cursor-pointer" onClick={handleCopyEmail}  >
               <a
-                href="https://x.com/SivaKrishna1096"
+                href="https://x.com/_SivaKrishna96"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300"
