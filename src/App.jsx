@@ -214,6 +214,15 @@ function App() {
   ];
   const experience = [
     {
+      company:"Tutcart",
+      role:"Full Stack Developer Intern",
+      date:"March 2025 -- Present",
+      description:[
+        "Architected and implemented reusable email workflows for OTP delivery, purchase confirmations, and account-verification messages",
+        "Developed a seamless refund processing pipeline—integrating backend, and payment-gateway"
+      ]
+    },
+    {
       company: "Xchange",
       role: "Freelance Project - Backend Developer",
       date: "Nov 2023 -- Jan 2024",
