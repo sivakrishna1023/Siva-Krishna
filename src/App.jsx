@@ -5,6 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faSquareXTwitter} from "@fortawesome/free-brands-svg-icons"
 
 import { SimpleIconsLeetcode } from "./leetcode";
+import { CodeforcesIcon } from "./codeforces";
 
 import {
   FaChalkboardTeacher,
@@ -412,6 +413,17 @@ function App() {
                 <SimpleIconsLeetcode size={50} />
               </a>
               </div>
+              
+              <div className="cursor-pointer" onClick={handleCopyEmail}  >
+              <a
+                href="https://codeforces.com/profile/SivaKrishna96"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300"
+              >
+               <CodeforcesIcon size={50} />
+              </a>
+              </div>
 
               <div className="cursor-pointer" onClick={handleCopyEmail}  >
               <a
@@ -463,7 +475,8 @@ function App() {
                     className="ml-2 text-blue-600 dark:text-blue-400 hover:underline text-sm"
                   >
                     {
-                      exp.company==="Xchange"? "WebSite" : "Certificate"
+                      exp.company==="Xchange"? "WebSite" : 
+                        exp.company!=="Tutcart" ? "Certificate" : ""
                     }
                   </a>
                 </h3>
