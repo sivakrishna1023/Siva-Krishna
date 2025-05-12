@@ -134,7 +134,7 @@ function App() {
       institution: "National Institute of Technology, Raipur",
       degree: "Bachelor in Electronic and Communication Engineering",
       duration: "December 2021 -- April 2025",
-      gpa: "8.2",
+      gpa: "8.32",
     },
     {
       institution: "Aditya Junior College, Andhra Pradesh",
