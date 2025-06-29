@@ -237,7 +237,7 @@ function App() {
       company: "Raise Digital Pvt. Ltd",
       role: "Web Development Intern",
       date: "Dec 2022 -- Jan 2023",
-      link: "https://drive.google.com/file/d/1oysaYgVo8MZg1YolO7QloYTTvTiOIcqO/view",
+      link: "https://drive.google.com/file/d/1V-za2FlmSjqVRGS2GRnCIfge-ujYsEia/view",
       description: [
         "Worked with Tech Team to create an intuitive and engaging user experience, incorporating user feedback for continuous improvement. Being part of the team I was incharge of creating the front-end using ReactJS.",
       ],
@@ -438,7 +438,7 @@ function App() {
 
           </div>
           <a
-            href="https://drive.google.com/file/d/1FdmoBQt6nV1RTYuwNr247_E2OvA3i5Ck/view"
+            href="https://drive.google.com/file/d/1oysaYgVo8MZg1YolO7QloYTTvTiOIcqO/view"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-6 px-6 py-2 bg-gray-400 text-white font-semibold rounded-lg hover:bg-blue-500 dark:bg-gray-400 dark:hover:bg-blue-500 transition-colors duration-300"
