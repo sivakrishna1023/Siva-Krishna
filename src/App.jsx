@@ -237,7 +237,7 @@ function App() {
       company: "Raise Digital Pvt. Ltd",
       role: "Web Development Intern",
       date: "Dec 2022 -- Jan 2023",
-      link: "https://drive.google.com/file/d/1V-za2FlmSjqVRGS2GRnCIfge-ujYsEia/view",
+      link: "https://drive.google.com/file/d/1oysaYgVo8MZg1YolO7QloYTTvTiOIcqO/view",
       description: [
         "Worked with Tech Team to create an intuitive and engaging user experience, incorporating user feedback for continuous improvement. Being part of the team I was incharge of creating the front-end using ReactJS.",
       ],
