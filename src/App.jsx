@@ -215,12 +215,25 @@ function App() {
   ];
   const experience = [
     {
+      company:"Global Logic",
+      role:"Trainee Software Engineer",
+      date:"August 2025 -- Present",
+      description:[
+       "Translated large volumes of business data into actionable insights for top clients (YouTube, Google Ads) using advanced, high-performance SQL queries."
+      "Automated manual database-table access authorizations by implementing SQL-driven workflows and scripts."
+      "Built an ETL pipeline using Java functions for data ingestion and SQL for joins/materialized tables to consolidate multi-source data into a dashboard, cutting report time from ∼1.5 hrs to ∼5 mins."
+ 
+      ]
+    },
+    {
       company:"Tutcart",
       role:"Full Stack Developer Intern",
-      date:"March 2025 -- Present",
+      date:"March 2025 -- July 2025",
       description:[
-        "Architected and implemented reusable email workflows for OTP delivery, purchase confirmations, and account-verification messages",
-        "Developed a seamless refund processing pipeline—integrating backend, and payment-gateway"
+        "Developed REST APIs for user registration, login, and user profile management, incorporating various CRUD operations for enhanced user experience.",
+        "Implemented secure reset and forgot-password workflows with OTP (email/SMS) authentication and a token-bucket rate limiter (1 request/10s), enforcing API-level throttling for DDoS mitigation and automated-abuse prevention.",
+        "Developed a seamless refund processing system by integrating backend services with payment-gateway APIs to enable secure, reliable refund handling."
+        "Built GitHub Actions CI/CD pipelines to automate build/test/deploy from Git repos to Cloud, cutting manual deployment time by 90% and reducing human error."
       ]
     },
     {
