@@ -488,7 +488,7 @@ function App() {
                   >
                     {
                       exp.company==="Xchange"? "WebSite" : 
-                        exp.company!=="Tutcart" ? "Certificate" : ""
+                        (exp.company!=="Tutcart" && exp.company!=="Global Logic") ? "Certificate" : ""
                     }
                   </a>
                 </h3>
