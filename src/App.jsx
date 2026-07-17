@@ -216,7 +216,7 @@ function App() {
   const experience = [
     {
       company:"Global Logic",
-      role:"Trainee Software Engineer",
+      role:"Associate Software Engineer",
       date:"August 2025 -- Present",
       description:[
        "Developed RESTful APIs using Spring Boot achieving 20% faster response times by optimizing complex database queries through strategic indexing and performance tuning.",
